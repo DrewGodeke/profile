@@ -46,7 +46,7 @@ h1 {
     transform: translateY(0);
   }
   100% {
-    transform: translateY(-3px);
+    transform: translateY(-5px);
   }
 }
 
